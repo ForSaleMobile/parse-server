@@ -111,9 +111,6 @@
   "bin": {
     "parse-server": "./bin/parse-server"
   },
-  "optionalDependencies": {
-    "bcrypt": "3.0.6"
-  },
   "collective": {
     "type": "opencollective",
     "url": "https://opencollective.com/parse-server",
